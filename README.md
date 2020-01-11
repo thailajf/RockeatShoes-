@@ -1,4 +1,4 @@
- <h2>ROCKEATSHOES  </h2> 
+ <h2>ROCKEATSHOES <span style="font-size:10px">Web Version</span>  </h2> 
 
 <b>Technologies:</b> React.js, Redux, Axios, Styled Components, React Router Dom and Icons.
  
