@@ -1,4 +1,4 @@
-#ROCKEATSHOES - Web Version
+<h2>ROCKEATSHOES </h2> - Web Version
 
 <b>Technologies:</b> React.js, Redux, Axios, Styled Components, React Router Dom and Icons.
  
